@@ -1,0 +1,4 @@
+test
+====
+
+Configuration test
